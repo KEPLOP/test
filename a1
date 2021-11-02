@@ -1,0 +1,555 @@
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/86571-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/86571-"] .image-cutter {
+  background: url(https://i.imgur.com/a0X4kYu.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/40017-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/40017-"] .image-cutter {
+  background: url(https://i.imgur.com/y6WdwpK.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/11740-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/11740-"] .image-cutter {
+  background: url(https://i.imgur.com/ujDQFEC.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/139118-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/139118-"] .image-cutter {
+  background: url(https://i.imgur.com/sASsA2R.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/6078-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/6078-"] .image-cutter {
+  background: url(https://i.imgur.com/ZdgBjoE.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/122061-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/122061-"] .image-cutter {
+  background: url(https://i.imgur.com/78dFSOn.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/122021-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/122021-"] .image-cutter {
+  background: url(https://i.imgur.com/u8B3Y5t.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/122019-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/122019-"] .image-cutter {
+  background: url(https://i.imgur.com/rAlUnpt.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/122323-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/122323-"] .image-cutter {
+  background: url(https://i.imgur.com/VScZV6y.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/127245-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/127245-"] .image-cutter {
+  background: url(https://i.imgur.com/zJvU4lD.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/122319-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/122319-"] .image-cutter {
+  background: url(https://i.imgur.com/kRW1Rl9.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/122317-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/122317-"] .image-cutter {
+  background: url(https://i.imgur.com/4qAYKkv.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/127244-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/127244-"] .image-cutter {
+  background: url(https://i.imgur.com/LjeRNi4.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/128665-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/128665-"] .image-cutter {
+  background: url(https://i.imgur.com/bP31ghL.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/130280-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/130280-"] .image-cutter {
+  background: url(https://i.imgur.com/HclLZyY.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/128663-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/128663-"] .image-cutter {
+  background: url(https://i.imgur.com/mBf2aOO.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/130281-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/130281-"] .image-cutter {
+  background: url(https://i.imgur.com/8T55NF5.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/128664-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/128664-"] .image-cutter {
+  background: url(https://i.imgur.com/J2ehXUB.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/133964-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/133964-"] .image-cutter {
+  background: url(https://i.imgur.com/cPN6EON.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/192335-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/192335-"] .image-cutter {
+  background: url(https://i.imgur.com/6M7nvdw.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/51947-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/51947-"] .image-cutter {
+  background: url(https://i.imgur.com/K0pNXkp.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/24376-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/24376-"] .image-cutter {
+  background: url(https://i.imgur.com/2Xv50W2.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/26203-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/26203-"] .image-cutter {
+  background: url(https://i.imgur.com/safwF4s.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/24378-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/24378-"] .image-cutter {
+  background: url(https://i.imgur.com/jTui8ui.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/126592-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/126592-"] .image-cutter {
+  background: url(https://i.imgur.com/waGUF8N.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/124029-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/124029-"] .image-cutter {
+  background: url(https://i.imgur.com/ym7MEYQ.gif) top center / cover;
+}
+
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/124030-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/124030-"] .image-cutter {
+  background: url(https://i.imgur.com/KWUFXr7.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/100841-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/100841-"] .image-cutter {
+  background: url(https://i.imgur.com/bUDgRWt.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/29167-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/29167-"] .image-cutter {
+  background: url(https://i.imgur.com/LGLYnPE.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/29165-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/29165-"] .image-cutter {
+  background: url(https://i.imgur.com/0WLd9DO.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/29164-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/29164-"] .image-cutter {
+  background: url(https://i.imgur.com/ru2cmk2.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/68949-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/68949-"] .image-cutter {
+  background: url(https://i.imgur.com/eIf36fG.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/29166-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/29166-"] .image-cutter {
+  background: url(https://i.imgur.com/ELDnk5h.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/117889-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/117889-"] .image-cutter {
+  background: url(https://i.imgur.com/6wOxvpa.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/100837-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/100837-"] .image-cutter {
+  background: url(https://i.imgur.com/ACU5S64.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/100835-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/100835-"] .image-cutter {
+  background: url(https://i.imgur.com/KyzUWSO.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/138126-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/138126-"] .image-cutter {
+  background: url(https://i.imgur.com/SK2Gd9V.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/138123-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/138123-"] .image-cutter {
+  background: url(https://i.imgur.com/epEbZLl.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/147410-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/147410-"] .image-cutter {
+  background: url(https://i.imgur.com/gARuzJ9.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/147411-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/147411-"] .image-cutter {
+  background: url(https://i.imgur.com/3k6GjyA.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/124032-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/124032-"] .image-cutter {
+  background: url(https://i.imgur.com/PsrRKWu.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/153558-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/153558-"] .image-cutter {
+  background: url(https://i.imgur.com/KfhCCVz.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/148417-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/148417-"] .image-cutter {
+  background: url(https://i.imgur.com/AoeUQwM.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/36914-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/36914-"] .image-cutter {
+  background: url(https://i.imgur.com/pvOuCrV.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/114811-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/114811-"] .image-cutter {
+  background: url(https://i.imgur.com/ucpwrmR.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/89497-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/89497-"] .image-cutter {
+  background: url(https://i.imgur.com/kCCRMrB.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/50639-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/50639-"] .image-cutter {
+  background: url(https://i.imgur.com/lZDDhdN.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/167229-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/167229-"] .image-cutter {
+  background: url(https://i.imgur.com/x9Gl3ko.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/53957-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/53957-"] .image-cutter {
+  background: url(https://i.imgur.com/ilo2QoH.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/73165-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/73165-"] .image-cutter {
+  background: url(https://i.imgur.com/zckKGGb.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/90097-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/90097-"] .image-cutter {
+  background: url(https://i.imgur.com/2lt4o1A.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/90099-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/90099-"] .image-cutter {
+  background: url(https://i.imgur.com/OROYUHy.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/195384-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/195384-"] .image-cutter {
+  background: url(https://i.imgur.com/XJmCntq.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/15597-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/15597-"] .image-cutter {
+  background: url(https://i.imgur.com/h8nPKBW.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/41783-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/41783-"] .image-cutter {
+  background: url(https://i.imgur.com/CMzcJAV.gif) top center / cover;
+}
+
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/119547-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/119547-"] .image-cutter {
+  background: url(https://i.imgur.com/WwzvfxS.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/30749-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/30749-"] .image-cutter {
+  background: url(https://i.imgur.com/jSfW2wl.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/30750-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/30750-"] .image-cutter {
+  background: url(https://i.imgur.com/6Jl2lQv.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/30777-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/30777-"] .image-cutter {
+  background: url(https://i.imgur.com/bcn54Wz.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/30776-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/30776-"] .image-cutter {
+  background: url(https://i.imgur.com/wA1aiqj.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/30748-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/30748-"] .image-cutter {
+  background: url(https://i.imgur.com/1NKc6Uy.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/80305-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/80305-"] .image-cutter {
+  background: url(https://i.imgur.com/JrO5f6N.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/80307-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/80307-"] .image-cutter {
+  background: url(https://i.imgur.com/JFRhUYQ.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/80309-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/80309-"] .image-cutter {
+  background: url(https://i.imgur.com/kt5agcV.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/80313-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/80313-"] .image-cutter {
+  background: url(https://i.imgur.com/imwvJa9.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/80311-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/80311-"] .image-cutter {
+  background: url(https://i.imgur.com/kAtDIVR.jpg) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/80317-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/80317-"] .image-cutter {
+  background: url(https://i.imgur.com/SHCsMMn.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/42236-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/42236-"] .image-cutter {
+  background: url(https://i.imgur.com/ecs3CnQ.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/102399-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/102399-"] .image-cutter {
+  background: url(https://i.imgur.com/RCM69Kk.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/42237-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/42237-"] .image-cutter {
+  background: url(https://i.imgur.com/8hTyz42.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/56611-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/56611-"] .image-cutter {
+  background: url(https://i.imgur.com/UMhnRHI.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/105067-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/105067-"] .image-cutter {
+  background: url(https://i.imgur.com/PE4G9ua.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/198210-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/198210-"] .image-cutter {
+  background: url(https://i.imgur.com/zxn578g.png) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/88809-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/88809-"] .image-cutter {
+  background: url(https://i.imgur.com/0UQQEuA.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/124031-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/124031-"] .image-cutter {
+  background: url(https://i.imgur.com/9OZvutG.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/10271-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/10271-"] .image-cutter {
+  background: url(https://i.imgur.com/5hfFCCM.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/71153-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/71153-"] .image-cutter {
+  background: url(https://i.imgur.com/SBbnSqE.gif) top center / cover;
+}
+/* 璃沙 */
+.b-catalog_entry > .cover[href *= "characters/71151-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/71151-"] .image-cutter {
+  background: url(https://i.imgur.com/JaIEnu8.gif) top center / cover;
+}
+
+
+
+
+
+
+
