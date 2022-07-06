@@ -1,3 +1,19 @@
+/* Основной файл темы */
+@import url(https://shiki-theme.web.app/import/main.css);
+/* Шрифт Roboto */
+@import url(https://shiki-theme.web.app/import/font-roboto.css);
+/* Стили обложки профиля */
+@import url(https://shiki-theme.web.app/import/profile-cover.css);
+/* Материальные поля ввода */
+@import url(https://shiki-theme.web.app/import/md-textfields.css);
+/* Изменения профиля v1.0 */
+@import url(https://shiki-theme.web.app/import/profile-update.1.css);
+/* Изменения профиля v1.1 (дополнение к v1.0) */
+@import url(https://shiki-theme.web.app/import/profile-update.1.1.css);
+/* Светлая тема */
+@import url(https://shiki-theme.web.app/import/theme-dark.css);
+/* Компактный вид новостей в две колонки на больших экранах */
+@import url(https://css-club.web.app/css/compact_news--grid.css);
 /* Настройки переменных темы */
 @media {:root {
   /* Обложка профиля */
