@@ -1,3 +1,71 @@
+/* Настройки переменных темы */
+@media {:root {
+  /* Обложка профиля */
+  --user-cover: url(https://i.imgur.com/rikCmhF.png); 
+  /* Фон сайта */
+  --user-background: none;
+}}
+
+/* Моя обложка в профиле */
+.p-profiles .profile-head::before {
+  display: block;
+  background-position: center 50%;
+}
+
+/* История */
+.p-profiles .profile-head .c-history {
+  display: none; }
+/* Статус «Всегда на сайте» */
+.p-profiles header.head .misc:after {  
+  content: "всегда на сайте";
+  font-size: 11px;
+  line-height: 12px;
+} 
+/* Статус «Всегда на сайте» */
+.p-profiles header.head .misc {
+  font-size: 0px; 
+}
+/* Контейнер для "Время за аниме и мангой" и "Активность на сайте" */
+.p-profiles-show .profile-content .cc-2 > .c-column:first-child {
+  display: none; }
+/* Время за аниме и мангой */
+.p-profiles-show .profile-content .lifetime{
+  display: none; }
+/* Активность на сайте */
+.p-profiles-show .profile-content .activity{
+  display: none; }
+/* Друзья */
+.p-profiles-show .profile-content .cc-2a > .c-column:first-child{
+  display: none; }
+/* Клубы */
+.p-profiles-show .profile-content .cc-2a > .c-column:last-child{
+  display: none; }
+/* фон профиля */
+body {
+  background-attachment: fixed;
+  background-image: url(https://i.imgur.com/YMlWLY7.jpg);
+  background-position: top center;
+  background-size: cover;
+}
+/* Тёмные полупрозрачная центральная область */
+.l-page {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+/* Верхнее меню transparent */
+.l-top_menu-v2 {
+  background: transparent;
+}
+/* Подменю(клубы, форум, коллекции и т.п) */
+.l-top_menu-v2 .submenu {
+  background: transparent;
+}
+/* Внутреннее свечение пунктов меню */
+.l-top_menu-v2 .submenu > a:hover,
+.l-top_menu-v2 .menu-dropdown > button:not(.mobile):hover,
+.l-top_menu-v2 .menu-dropdown > button:not(.mobile) a:hover {
+  box-shadow: 10px 5px 5px blue;
+  transition: 0.1s;
+}
 /* ONE PIECE */
 .b-catalog_entry > .cover[href *= "characters/5627-"] img {
   opacity: 0;
