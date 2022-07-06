@@ -1,0 +1,397 @@
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/5627-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/5627-"] .image-cutter {
+  background: url(https://i.imgur.com/tHplQFW.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/309-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/309-"] .image-cutter {
+  background: url(https://i.imgur.com/zpiq3lL.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/64-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/64-"] .image-cutter {
+  background: url(https://i.imgur.com/mmM96lB.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/18938-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/18938-"] .image-cutter {
+  background: url(https://i.imgur.com/s6gtxi2.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/40-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/40-"] .image-cutter {
+  background: url(https://i.imgur.com/RtvOSAx.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/723-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/723-"] .image-cutter {
+  background: url(https://i.imgur.com/YMYV8Fq.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/61-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/61-"] .image-cutter {
+  background: url(https://i.imgur.com/U67YD42.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/305-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/305-"] .image-cutter {
+  background: url(https://i.imgur.com/a6KQdDB.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/724-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/724-"] .image-cutter {
+  background: url(https://i.imgur.com/wmyqJWg.png) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/62-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/62-"] .image-cutter {
+  background: url(https://i.imgur.com/q7bKDQz.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/85647-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/85647-"] .image-cutter {
+  background: url(https://i.imgur.com/gB9ZH2D.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/13767-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/13767-"] .image-cutter {
+  background: url(https://i.imgur.com/o7n2lUp.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/161858-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/161858-"] .image-cutter {
+  background: url(https://i.imgur.com/O3iph38.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/108589-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/108589-"] .image-cutter {
+  background: url(https://i.imgur.com/StM7jQY.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/141737-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/141737-"] .image-cutter {
+  background: url(https://i.imgur.com/sd6Hai9.png) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/183436-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183436-"] .image-cutter {
+  background: url(https://i.imgur.com/WKsEWoO.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/154437-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/154437-"] .image-cutter {
+  background: url(https://i.imgur.com/zhzkvJb.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/183442-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183442-"] .image-cutter {
+  background: url(https://i.imgur.com/DtZrXmA.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/183443-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183443-"] .image-cutter {
+  background: url(https://i.imgur.com/3v6yY7b.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/23533-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/23533-"] .image-cutter {
+  background: url(https://i.imgur.com/eNmdLU9.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/23021-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/23021-"] .image-cutter {
+  background: url(https://i.imgur.com/k9z96y2.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/55369-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/55369-"] .image-cutter {
+  background: url(https://i.imgur.com/FZpCXMU.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/2072-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/2072-"] .image-cutter {
+  background: url(https://i.imgur.com/1j6hmn6.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/59281-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/59281-"] .image-cutter {
+  background: url(https://i.imgur.com/hSR0bYL.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/171106-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/171106-"] .image-cutter {
+  background: url(https://i.imgur.com/3b4hwx7.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/23678-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/23678-"] .image-cutter {
+  background: url(https://i.imgur.com/Xw0SjxR.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/43094-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/43094-"] .image-cutter {
+  background: url(https://i.imgur.com/WxGgifp.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/140169-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/140169-"] .image-cutter {
+  background: url(https://i.imgur.com/CZD1umi.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/37641-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/37641-"] .image-cutter {
+  background: url(https://i.imgur.com/FipTdXa.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/171107-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/171107-"] .image-cutter {
+  background: url(https://i.imgur.com/sbJGioO.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/164237-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/164237-"] .image-cutter {
+  background: url(https://i.imgur.com/dK10x34.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/182029-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/182029-"] .image-cutter {
+  background: url(https://i.imgur.com/kyTZ1Hl.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/2749-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/2749-"] .image-cutter {
+  background: url(https://i.imgur.com/O5o9nTl.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/21093-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/21093-"] .image-cutter {
+  background: url(https://i.imgur.com/THTOSUs.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/2754-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/2754-"] .image-cutter {
+  background: url(https://i.imgur.com/3nwCRcy.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/14989-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/14989-"] .image-cutter {
+  background: url(https://i.imgur.com/k3GUe2w.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/2751-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/2751-"] .image-cutter {
+  background: url(https://i.imgur.com/ysHSyfk.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/46109-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/46109-"] .image-cutter {
+  background: url(https://i.imgur.com/CN7QhZq.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/182028-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/182028-"] .image-cutter {
+  background: url(https://i.imgur.com/Mr9t1v3.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/113609-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/113609-"] .image-cutter {
+  background: url(https://i.imgur.com/VN9SWhE.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/5910-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/5910-"] .image-cutter {
+  background: url(https://i.imgur.com/DbgozAG.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/4887-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/4887-"] .image-cutter {
+  background: url(https://i.imgur.com/NZWdkWZ.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/3331-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/3331-"] .image-cutter {
+  background: url(https://i.imgur.com/otx5Nca.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/2064-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/2064-"] .image-cutter {
+  background: url(https://i.imgur.com/JHz1v2p.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/4899-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/4899-"] .image-cutter {
+  background: url(https://i.imgur.com/2SezCLb.png) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/7467-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/7467-"] .image-cutter {
+  background: url(https://i.imgur.com/0lA9Tw9.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/16342-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/16342-"] .image-cutter {
+  background: url(https://i.imgur.com/LsJZ8rX.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/166847-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/166847-"] .image-cutter {
+  background: url(https://i.imgur.com/TOLsbiR.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/154269-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/154269-"] .image-cutter {
+  background: url(https://i.imgur.com/qsQfWEQ.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/59641-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/59641-"] .image-cutter {
+  background: url(https://i.imgur.com/g7hHK7J.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/21399-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/21399-"] .image-cutter {
+  background: url(https://i.imgur.com/MrBnvhx.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/78913-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/78913-"] .image-cutter {
+  background: url(https://i.imgur.com/I2zpEDU.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/21443-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/21433-"] .image-cutter {
+  background: url(https://i.imgur.com/89aP3NT.jpg) top center / cover;
+}
+/* ONE PIECE */
+.b-catalog_entry > .cover[href *= "characters/1541-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/1541-"] .image-cutter {
+  background: url(https://i.imgur.com/om1Oanw.jpg) top center / cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
