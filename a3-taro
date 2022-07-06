@@ -72,18 +72,17 @@
 .b-catalog_entry > .cover[href *= "characters/85647-"] img {
   opacity: 0;
 }
-.b-catalog_entry > .cover[href *= "characters/85647.image-cutter {
+.b-catalog_entry > .cover[href *= "characters/85647-"] .image-cutter {
   background: url(https://i.imgur.com/gB9ZH2D.jpg) top center / cover;
 }
+
 /* ONE PIECE */
-.b-catalog_entry > .cover[href *= "characters/13767img {
+.b-catalog_entry > .cover[href *= "characters/13767-"] img {
   opacity: 0;
 }
-.b-catalog_entry > .cover[href *= "characters/13767ge-cutter {
+.b-catalog_entry > .cover[href *= "characters/13767-"] .image-cutter {
   background: url(https://i.imgur.com/o7n2lUp.jpg) top center / cover;
 }
-
-
 
 
 
