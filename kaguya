@@ -6,6 +6,13 @@
   background: url(https://i.imgur.com/SuhgS4u.png) top center / cover;
 }
 /* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183471-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183471-"] .image-cutter {
+  background: url(https://i.imgur.com/ii3CY9V.jpg) top center / cover;
+}
+/* kaguya war in love */
 .b-catalog_entry > .cover[href *= "characters/152052-"] img {
   opacity: 0;
 }
@@ -166,10 +173,4 @@
 .b-catalog_entry > .cover[href *= "characters/183542-"] .image-cutter {
   background: url(https://i.imgur.com/ltC1kbp.jpg) top center / cover;
 }
-/* kaguya war in love */
-.b-catalog_entry > .cover[href *= "characters/183471-"] img {
-  opacity: 0;
-}
-.b-catalog_entry > .cover[href *= "characters/183471-"] .image-cutter {
-  background: url(https://i.imgur.com/ii3CY9V.jpg) top center / cover;
-}
+
