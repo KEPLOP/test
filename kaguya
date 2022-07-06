@@ -40,18 +40,137 @@
 .b-catalog_entry > .cover[href *= "characters/136359-"] .image-cutter {
   background: url(https://i.imgur.com/jIR2lXK.jpg) top center / cover;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183980-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183980-"] .image-cutter {
+  background: url(https://i.imgur.com/qB7NXU4.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183718-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183718-"] .image-cutter {
+  background: url(https://i.imgur.com/sTpKCsp.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183421-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183421-"] .image-cutter {
+  background: url(https://i.imgur.com/j6ynA0p.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183418-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183418-"] .image-cutter {
+  background: url(https://i.imgur.com/K7Fj8iL.png) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183472-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183472-"] .image-cutter {
+  background: url(https://i.imgur.com/i425r7f.png) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183543-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183543-"] .image-cutter {
+  background: url(https://i.imgur.com/1rpaUG8.png) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/166093-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/166093-"] .image-cutter {
+  background: url(https://i.imgur.com/iWOlYo0.png) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183711-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183711-"] .image-cutter {
+  background: url(https://i.imgur.com/XCMtCYj.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183753-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183753-"] .image-cutter {
+  background: url(https://i.imgur.com/xwawdME.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183368-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183368-"] .image-cutter {
+  background: url(https://i.imgur.com/uS0WwEw.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183754-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183754-"] .image-cutter {
+  background: url(https://i.imgur.com/IDx3nNF.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/189281-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/189281-"] .image-cutter {
+  background: url(https://i.imgur.com/BqIPNlZ.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/168135-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/168135-"] .image-cutter {
+  background: url(https://i.imgur.com/kGe9tT8.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/184548-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/184548-"] .image-cutter {
+  background: url(https://i.imgur.com/huh0VBJ.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/152051-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/152051-"] .image-cutter {
+  background: url(https://i.imgur.com/TxD9Ang.png) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/191622-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/191622-"] .image-cutter {
+  background: url(https://i.imgur.com/JwfvwzK.png) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183427-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183427-"] .image-cutter {
+  background: url(https://i.imgur.com/Okgx2Bo.png) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183542-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183542-"] .image-cutter {
+  background: url(https://i.imgur.com/ltC1kbp.jpg) top center / cover;
+}
+/* kaguya war in love */
+.b-catalog_entry > .cover[href *= "characters/183471-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/183471-"] .image-cutter {
+  background: url(https://i.imgur.com/ii3CY9V.jpg) top center / cover;
+}
 
