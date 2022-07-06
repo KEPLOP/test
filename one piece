@@ -52,7 +52,7 @@
   opacity: 0;
 }
 .b-catalog_entry > .cover[href *= "characters/305-"] .image-cutter {
-  background: url(https://i.imgur.com/a6KQdDB.jpg) top center / cover;
+  background: url(https://i.imgur.com/wmyqJWg.png) top center / cover;
 }
 /* ONE PIECE */
 .b-catalog_entry > .cover[href *= "characters/724-"] img {
