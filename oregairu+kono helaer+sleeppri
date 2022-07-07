@@ -1,0 +1,175 @@
+/* Этот противный целитель!  */
+.b-catalog_entry > .cover[href *= "characters/209132-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/209132-"] .image-cutter {
+  background: url(https://i.imgur.com/91oKjsX.png) top center / cover;
+}
+/* Этот противный целитель!  */
+.b-catalog_entry > .cover[href *= "characters/209119-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/209119-"] .image-cutter {
+  background: url(https://i.imgur.com/z7aJ98E.jpg) top center / cover;
+}
+/* Этот противный целитель!  */
+.b-catalog_entry > .cover[href *= "characters/209131-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/209131-"] .image-cutter {
+  background: url(https://i.imgur.com/hnhepzZ.png) top center / cover;
+}
+/* Сон в замке демона */
+.b-catalog_entry > .cover[href *= "characters/185926-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/185926-"] .image-cutter {
+  background: url(https://i.imgur.com/0azNCIz.jpg) top center / cover;
+}
+/* Сон в замке демона  */
+.b-catalog_entry > .cover[href *= "characters/185917-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/185917-"] .image-cutter {
+  background: url(https://i.imgur.com/foaLQa9.png) top center / cover;
+}
+/* Сон в замке демона */
+.b-catalog_entry > .cover[href *= "characters/193694-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/193694-"] .image-cutter {
+  background: url(https://i.imgur.com/2XaUOHC.jpg) top center / cover;
+}
+/* Сон в замке демона  */
+.b-catalog_entry > .cover[href *= "characters/182752-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/182752-"] .image-cutter {
+  background: url(https://i.imgur.com/sNUDxGS.png) top center / cover;
+}
+/* Сон в замке демона  */
+.b-catalog_entry > .cover[href *= "characters/182471-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/182471-"] .image-cutter {
+  background: url(https://i.imgur.com/gLcxH97.jpg) top center / cover;
+}
+/* Сон в замке демона  */
+.b-catalog_entry > .cover[href *= "characters/193697-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/193697-"] .image-cutter {
+  background: url(https://i.imgur.com/G2spKNK.png) top center / cover;
+}
+/* Сон в замке демона  */
+.b-catalog_entry > .cover[href *= "characters/144908-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/144908-"] .image-cutter {
+  background: url(https://i.imgur.com/XJNAKrL.jpg) top center / cover;
+}
+/* Сон в замке демона  */
+.b-catalog_entry > .cover[href *= "characters/188191-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/188191-"] .image-cutter {
+  background: url(https://i.imgur.com/PmSUZdq.jpg) top center / cover;
+}
+/* Сон в замке демона  */
+.b-catalog_entry > .cover[href *= "characters/185922-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/185922-"] .image-cutter {
+  background: url(https://i.imgur.com/I9xfxHT.jpg) top center / cover;
+}
+/* Сон в замке демона  */
+.b-catalog_entry > .cover[href *= "characters/185919-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/185919-"] .image-cutter {
+  background: url(https://i.imgur.com/mSGsKAR.png) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/67069-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/67069-"] .image-cutter {
+  background: url(https://i.imgur.com/9zuYVGs.jpg) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/110743-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/110743-"] .image-cutter {
+  background: url(https://i.imgur.com/wIXU7r8.jpg) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/67067-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/67067-"] .image-cutter {
+  background: url(https://i.imgur.com/iMcky03.jpg) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/67075-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/67075-"] .image-cutter {
+  background: url(https://i.imgur.com/wyirmiD.png) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/83657-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/83657-"] .image-cutter {
+  background: url(https://i.imgur.com/o9JC9kV.png) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/127545-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/127545-"] .image-cutter {
+  background: url(https://i.imgur.com/jXWHER0.jpg) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/88585-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/88585-"] .image-cutter {
+  background: url(https://i.imgur.com/xOzRO0i.jpg) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/79591-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/79591-"] .image-cutter {
+  background: url(https://i.imgur.com/6GpGxas.jpg) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/79595-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/79595-"] .image-cutter {
+  background: url(https://i.imgur.com/sDXvLlf.jpg) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/85215-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/85215-"] .image-cutter {
+  background: url(https://i.imgur.com/fJdPIpn.jpg) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/82543-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/82543-"] .image-cutter {
+  background: url(https://i.imgur.com/nn31HOn.jpg) top center / cover;
+}
+/* oregairu  */
+.b-catalog_entry > .cover[href *= "characters/118395-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/118395-"] .image-cutter {
+  background: url(https://i.imgur.com/8AaaWFv.jpg) top center / cover;
+}
