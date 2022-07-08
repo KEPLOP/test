@@ -1,0 +1,329 @@
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/203870-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/203870-"] .image-cutter {
+  background: url(https://i.imgur.com/3id4Zxo.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/201458-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/201458-"] .image-cutter {
+  background: url(https://i.imgur.com/X9y6kMe.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/201457-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/201457-"] .image-cutter {
+  background: url(https://i.imgur.com/FdRPdW1.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/207536-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/207536-"] .image-cutter {
+  background: url(https://i.imgur.com/u7QzlJP.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/208625-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/208625-"] .image-cutter {
+  background: url(https://i.imgur.com/VgGJJ0Z.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/205692-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/205692-"] .image-cutter {
+  background: url(https://i.imgur.com/w7wRLMm.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/137980-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/137980-"] .image-cutter {
+  background: url(https://i.imgur.com/Uz44ryD.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/171880-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/171880-"] .image-cutter {
+  background: url(https://i.imgur.com/uOzxcqX.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/178921-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/178921-"] .image-cutter {
+  background: url(https://i.imgur.com/X6VYCSj.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/139205-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/139205-"] .image-cutter {
+  background: url(https://i.imgur.com/ETuTXcN.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/168686-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/168686-"] .image-cutter {
+  background: url(https://i.imgur.com/0O7x3uG.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/180837-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/180837-"] .image-cutter {
+  background: url(https://i.imgur.com/8AOxaOl.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/168658-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/168658-"] .image-cutter {
+  background: url(https://i.imgur.com/csbgqqF.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/134861-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/134861-"] .image-cutter {
+  background: url(https://i.imgur.com/tMzkGAv.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/104851-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/104851-"] .image-cutter {
+  background: url(https://i.imgur.com/t0K4L2C.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/145556-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/145556-"] .image-cutter {
+  background: url(https://i.imgur.com/OwsEWdo.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/122123-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/122123-"] .image-cutter {
+  background: url(https://i.imgur.com/4DyIeVU.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/137973-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/137973-"] .image-cutter {
+  background: url(https://i.imgur.com/6HDId6W.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/180835-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/180835-"] .image-cutter {
+  background: url(https://i.imgur.com/i4ajKgw.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/180829-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/180829-"] .image-cutter {
+  background: url(https://i.imgur.com/r1ubbJE.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/195957-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/195957-"] .image-cutter {
+  background: url(https://i.imgur.com/tKCDqlA.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/67333-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/67333-"] .image-cutter {
+  background: url(https://i.imgur.com/p5dLrSY.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/168680-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/168680-"] .image-cutter {
+  background: url(https://i.imgur.com/GrDODFl.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/67331-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/67331-"] .image-cutter {
+  background: url(https://i.imgur.com/W7xHCNS.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/67331-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/67331-"] .image-cutter {
+  background: url(https://i.imgur.com/WzrxsxF.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/180774-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/180774-"] .image-cutter {
+  background: url(https://i.imgur.com/n4yqi0L.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/168682-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/168682-"] .image-cutter {
+  background: url(https://i.imgur.com/k79HBdT.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/67323-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/67323-"] .image-cutter {
+  background: url(https://i.imgur.com/MzPjpdo.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/178927-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/178927-"] .image-cutter {
+  background: url(https://i.imgur.com/ww6Rah5.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/157542-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/157542-"] .image-cutter {
+  background: url(https://i.imgur.com/nTNjoQR.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/180772-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/180772-"] .image-cutter {
+  background: url(https://i.imgur.com/aaMrsFi.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/137985-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/137985-"] .image-cutter {
+  background: url(https://i.imgur.com/98hCJ7F.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/137974-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/137974-"] .image-cutter {
+  background: url(https://i.imgur.com/eGuFhzX.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/180842-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/180842-"] .image-cutter {
+  background: url(https://i.imgur.com/wpf15oo.png) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/171879-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/171879-"] .image-cutter {
+  background: url(https://i.imgur.com/JGVcnh3.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/178926-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/178926-"] .image-cutter {
+  background: url(https://i.imgur.com/tiHK1dh.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/178923-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/178923-"] .image-cutter {
+  background: url(https://i.imgur.com/uQ4tO8V.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/75636-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/75636-"] .image-cutter {
+  background: url(https://i.imgur.com/dDRI6S4.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/134862-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/134862-"] .image-cutter {
+  background: url(https://i.imgur.com/v6efenP.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/76814-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/76814-"] .image-cutter {
+  background: url(https://i.imgur.com/Gx5knhp.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/137988-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/137988-"] .image-cutter {
+  background: url(https://i.imgur.com/PzMpaey.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/168644-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/168644-"] .image-cutter {
+  background: url(https://i.imgur.com/LBi34xi.gif) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/137990-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/137990-"] .image-cutter {
+  background: url(https://i.imgur.com/uWiMIoK.gif) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/107021-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/107021-"] .image-cutter {
+  background: url(https://i.imgur.com/z6wumVD.gif) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/110603-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/110603-"] .image-cutter {
+  background: url(https://i.imgur.com/pt2UWXd.jpg) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/140245-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/140245-"] .image-cutter {
+  background: url(https://i.imgur.com/NjpFYog.gif) top center / cover;
+}
+/* blue archive  */
+.b-catalog_entry > .cover[href *= "characters/110605-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/110605-"] .image-cutter {
+  background: url(https://i.imgur.com/Lo7YHJq.gif) top center / cover;
+}
