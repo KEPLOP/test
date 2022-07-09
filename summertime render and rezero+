@@ -1,0 +1,196 @@
+/* summertime render  */
+.b-catalog_entry > .cover[href *= "characters/170611-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/170611-"] .image-cutter {
+  background: url(https://i.imgur.com/ux6hQci.jpg) top center / cover;
+}
+/* summertime render  */
+.b-catalog_entry > .cover[href *= "characters/170612-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/170612-"] .image-cutter {
+  background: url(https://i.imgur.com/LoI01o6.jpg) top center / cover;
+}
+/* summertime render  */
+.b-catalog_entry > .cover[href *= "characters/175493-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/175493-"] .image-cutter {
+  background: url(https://i.imgur.com/Ty8IMqv.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/118737-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/118737-"] .image-cutter {
+  background: url(https://i.imgur.com/KXgo8tk.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/118781-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/118781-"] .image-cutter {
+  background: url(https://i.imgur.com/gDgpEMq.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/187956-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/187956-"] .image-cutter {
+  background: url(https://i.imgur.com/aKFSznM.png) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/118773-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/118773-"] .image-cutter {
+  background: url(https://i.imgur.com/04GZ34W.gif) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/187607-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/187607-"] .image-cutter {
+  background: url(https://i.imgur.com/xE5XAgl.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/188142-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/188142-"] .image-cutter {
+  background: url(https://i.imgur.com/nUb7hDa.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/188122-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/188122-"] .image-cutter {
+  background: url(https://i.imgur.com/tvJpubP.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/188119-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/188119-"] .image-cutter {
+  background: url(https://i.imgur.com/25oMhwo.png) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/144320-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/144320-"] .image-cutter {
+  background: url(https://i.imgur.com/cbnMvHG.png) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/144316-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/144316-"] .image-cutter {
+  background: url(https://i.imgur.com/rxR3IKN.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/188127-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/188127-"] .image-cutter {
+  background: url(https://i.imgur.com/oq3GgDJ.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/188130-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/188130-"] .image-cutter {
+  background: url(https://i.imgur.com/HgNYaj9.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/180703-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/180703-"] .image-cutter {
+  background: url(https://i.imgur.com/wLx2tYQ.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/187952-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/187952-"] .image-cutter {
+  background: url(https://i.imgur.com/V2OefSy.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/144314-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/144314-"] .image-cutter {
+  background: url(https://i.imgur.com/MMNMkWz.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/147409-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/147409-"] .image-cutter {
+  background: url(https://i.imgur.com/SjzffXU.png) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/118749-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/118749-"] .image-cutter {
+  background: url(https://i.imgur.com/IYxWoq1.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/118755-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/118755-"] .image-cutter {
+  background: url(https://i.imgur.com/8TR9OnK.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/118763-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/118763-"] .image-cutter {
+  background: url(https://i.imgur.com/pIhrw2v.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/118765-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/118765-"] .image-cutter {
+  background: url(https://i.imgur.com/G5oO0mV.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/185432-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/185432-"] .image-cutter {
+  background: url(https://i.imgur.com/qa1VKYH.png) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/144066-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/144066-"] .image-cutter {
+  background: url(https://i.imgur.com/K0Ap5iE.png) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/145877-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/145877-"] .image-cutter {
+  background: url(https://i.imgur.com/k4tUald.jpg) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/144065-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/144065-"] .image-cutter {
+  background: url(https://i.imgur.com/GA5ZvRk.gif) top center / cover;
+}
+/* rezero  */
+.b-catalog_entry > .cover[href *= "characters/118767-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/118767-"] .image-cutter {
+  background: url(https://i.imgur.com/Sl5gI63.jpg) top center / cover;
+}
