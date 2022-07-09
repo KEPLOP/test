@@ -34,6 +34,13 @@
   background: url(https://i.imgur.com/gDgpEMq.jpg) top center / cover;
 }
 /* rezero  */
+.b-catalog_entry > .cover[href *= "characters/187956-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/187956-"] .image-cutter {
+  background: url(https://i.imgur.com/aKFSznM.png) top center / cover;
+}
+/* rezero  */
 .b-catalog_entry > .cover[href *= "characters/118773-"] img {
   opacity: 0;
 }
