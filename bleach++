@@ -726,3 +726,31 @@
 .b-catalog_entry > .cover[href *= "characters/38471-"] .image-cutter {
   background: url(https://i.imgur.com/OiGFpbg.jpg) top center / cover;
 }
+/* bleach */
+.b-catalog_entry > .cover[href *= "characters/45773-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/45773-"] .image-cutter {
+  background: url(https://i.imgur.com/wHcHA0V.jpg) top center / cover;
+}
+/* bleach */
+.b-catalog_entry > .cover[href *= "characters/60533-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/60533-"] .image-cutter {
+  background: url(https://i.imgur.com/2ZvNUcv.jpg) top center / cover;
+}
+/* bleach */
+.b-catalog_entry > .cover[href *= "characters/71345-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/71345-"] .image-cutter {
+  background: url(https://i.imgur.com/NQMYqss.jpg) top center / cover;
+}
+/* bleach */
+.b-catalog_entry > .cover[href *= "characters/2340-"] img {
+  opacity: 0;
+}
+.b-catalog_entry > .cover[href *= "characters/2340-"] .image-cutter {
+  background: url(https://i.imgur.com/Bji9lDL.jpg) top center / cover;
+}
